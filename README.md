@@ -10,6 +10,8 @@ How to use ?
 
 This plugin is good for Pvp Soup! Use the soup to heal yourself.
 
+Beetroot soup regenerates you by 10 HP in addition to your own HP.
+
 Others
 ======
 
