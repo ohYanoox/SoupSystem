@@ -1,7 +1,7 @@
 SoupSystem
 ============
 
-SimpleVanish is a plugin created by Yanoox for use in pocketmine software servers.
+SoupSystem is a plugin created by Yanoox for use in pocketmine software servers.
 
 Soup stackUp and heal system plugin created by Yanoox :D 
 
